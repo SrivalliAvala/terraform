@@ -1,0 +1,1 @@
+private_ip address is : 172.31.20.110 
